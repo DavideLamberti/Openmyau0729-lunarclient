@@ -1,0 +1,25 @@
+FD: myau/mixin/MixinEntity/worldObj myau/mixin/MixinEntity/o
+FD: myau/mixin/MixinEntity/posX myau/mixin/MixinEntity/s
+FD: myau/mixin/MixinEntity/posY myau/mixin/MixinEntity/t
+FD: myau/mixin/MixinEntity/posZ myau/mixin/MixinEntity/u
+FD: myau/mixin/MixinEntity/motionX myau/mixin/MixinEntity/v
+FD: myau/mixin/MixinEntity/motionY myau/mixin/MixinEntity/w
+FD: myau/mixin/MixinEntity/motionZ myau/mixin/MixinEntity/x
+FD: myau/mixin/MixinEntity/rotationYaw myau/mixin/MixinEntity/y
+FD: myau/mixin/MixinEntity/rotationPitch myau/mixin/MixinEntity/z
+FD: myau/mixin/MixinEntity/prevRotationYaw myau/mixin/MixinEntity/A
+FD: myau/mixin/MixinEntity/prevRotationPitch myau/mixin/MixinEntity/B
+FD: myau/mixin/MixinEntity/onGround myau/mixin/MixinEntity/C
+FD: myau/mixin/MixinEntityPlayerSP/lastReportedYaw myau/mixin/MixinEntityPlayerSP/bN
+FD: myau/mixin/MixinEntityPlayerSP/lastReportedPitch myau/mixin/MixinEntityPlayerSP/bO
+FD: myau/mixin/MixinEntityPlayerSP/renderArmYaw myau/mixin/MixinEntityPlayerSP/f
+FD: myau/mixin/MixinEntityPlayerSP/prevRenderArmYaw myau/mixin/MixinEntityPlayerSP/h
+FD: myau/mixin/MixinEntityRenderer/mc myau/mixin/MixinEntityRenderer/h
+FD: myau/mixin/MixinEntityRenderer/thirdPersonDistance myau/mixin/MixinEntityRenderer/q
+FD: myau/mixin/MixinKeyBinding/keyDescription myau/mixin/MixinKeyBinding/d
+FD: myau/mixin/MixinMinecraft/leftClickCounter myau/mixin/MixinMinecraft/ag
+FD: myau/mixin/MixinMinecraft/playerController myau/mixin/MixinMinecraft/c
+FD: myau/mixin/MixinMinecraft/theWorld myau/mixin/MixinMinecraft/f
+FD: myau/mixin/MixinMinecraft/thePlayer myau/mixin/MixinMinecraft/h
+FD: myau/mixin/MixinMinecraft/currentScreen myau/mixin/MixinMinecraft/m
+MD: myau/mixin/MixinBlockModelRenderer/renderModelAmbientOcclusion (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/block/Block;Lnet/minecraft/util/BlockPos;Lnet/minecraft/client/renderer/WorldRenderer;Z)Z myau/mixin/MixinBlockModelRenderer/a (Ladq;Lboq;Lafh;Lcj;Lbfd;Z)Z

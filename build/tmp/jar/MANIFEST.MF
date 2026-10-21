@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+ModSide: CLIENT
+MixinConfigs: mixins.myau.json
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+

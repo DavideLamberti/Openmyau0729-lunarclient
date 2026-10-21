@@ -1,0 +1,25 @@
+FD: myau/mixin/MixinEntity/worldObj myau/mixin/MixinEntity/field_70170_p
+FD: myau/mixin/MixinEntity/posX myau/mixin/MixinEntity/field_70165_t
+FD: myau/mixin/MixinEntity/posY myau/mixin/MixinEntity/field_70163_u
+FD: myau/mixin/MixinEntity/posZ myau/mixin/MixinEntity/field_70161_v
+FD: myau/mixin/MixinEntity/motionX myau/mixin/MixinEntity/field_70159_w
+FD: myau/mixin/MixinEntity/motionY myau/mixin/MixinEntity/field_70181_x
+FD: myau/mixin/MixinEntity/motionZ myau/mixin/MixinEntity/field_70179_y
+FD: myau/mixin/MixinEntity/rotationYaw myau/mixin/MixinEntity/field_70177_z
+FD: myau/mixin/MixinEntity/rotationPitch myau/mixin/MixinEntity/field_70125_A
+FD: myau/mixin/MixinEntity/prevRotationYaw myau/mixin/MixinEntity/field_70126_B
+FD: myau/mixin/MixinEntity/prevRotationPitch myau/mixin/MixinEntity/field_70127_C
+FD: myau/mixin/MixinEntity/onGround myau/mixin/MixinEntity/field_70122_E
+FD: myau/mixin/MixinEntityPlayerSP/lastReportedYaw myau/mixin/MixinEntityPlayerSP/field_175164_bL
+FD: myau/mixin/MixinEntityPlayerSP/lastReportedPitch myau/mixin/MixinEntityPlayerSP/field_175165_bM
+FD: myau/mixin/MixinEntityPlayerSP/renderArmYaw myau/mixin/MixinEntityPlayerSP/field_71154_f
+FD: myau/mixin/MixinEntityPlayerSP/prevRenderArmYaw myau/mixin/MixinEntityPlayerSP/field_71163_h
+FD: myau/mixin/MixinEntityRenderer/mc myau/mixin/MixinEntityRenderer/field_78531_r
+FD: myau/mixin/MixinEntityRenderer/thirdPersonDistance myau/mixin/MixinEntityRenderer/field_78490_B
+FD: myau/mixin/MixinKeyBinding/keyDescription myau/mixin/MixinKeyBinding/field_74515_c
+FD: myau/mixin/MixinMinecraft/leftClickCounter myau/mixin/MixinMinecraft/field_71429_W
+FD: myau/mixin/MixinMinecraft/playerController myau/mixin/MixinMinecraft/field_71442_b
+FD: myau/mixin/MixinMinecraft/theWorld myau/mixin/MixinMinecraft/field_71441_e
+FD: myau/mixin/MixinMinecraft/thePlayer myau/mixin/MixinMinecraft/field_71439_g
+FD: myau/mixin/MixinMinecraft/currentScreen myau/mixin/MixinMinecraft/field_71462_r
+MD: myau/mixin/MixinBlockModelRenderer/renderModelAmbientOcclusion (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/block/Block;Lnet/minecraft/util/BlockPos;Lnet/minecraft/client/renderer/WorldRenderer;Z)Z myau/mixin/MixinBlockModelRenderer/func_178265_a (Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/client/resources/model/IBakedModel;Lnet/minecraft/block/Block;Lnet/minecraft/util/BlockPos;Lnet/minecraft/client/renderer/WorldRenderer;Z)Z

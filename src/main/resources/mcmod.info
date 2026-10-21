@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "myau",
+    "name": "Myau",
+    "description": "Client-side modules for Minecraft 1.8.9 Forge",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "clientSideOnly": true
+  }
+]
